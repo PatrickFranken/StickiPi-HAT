@@ -1,2 +1,5 @@
 # Ignore EAGLE libraries as these are embedded into the project files
 libraries/
+
+# Ignore EAGLE autosave files
+*.s#*
