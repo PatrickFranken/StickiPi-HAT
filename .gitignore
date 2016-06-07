@@ -3,3 +3,7 @@ libraries/
 
 # Ignore EAGLE autosave files
 *.s#*
+*.b#*
+
+# Ignore EAGLE lock files
+*.lck
